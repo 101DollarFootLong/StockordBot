@@ -4,11 +4,11 @@ discord==1.0.1
 discord.py==1.3.3
 fbprophet==0.6
 newsapi-python==0.2.6
-numpy==1.18.2
+numpy==1.22.0
 pandas==1.0.3
 pandas-datareader==0.8.1
 pystan==2.19.1.1
 requests==2.23.0
 urllib3==1.25.9
-numpy==1.18.2
+numpy==1.22.0
 pytrends==4.7.2
